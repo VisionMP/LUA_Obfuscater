@@ -1,0 +1,10 @@
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\bin\Release\LUA Encrypt.exe.config
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\bin\Release\LUA Encrypt.exe
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\bin\Release\LUA Encrypt.pdb
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA Encrypt.csproj.AssemblyReference.cache
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA_Encrypt.Form1.resources
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA_Encrypt.Properties.Resources.resources
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA Encrypt.csproj.GenerateResource.cache
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA Encrypt.exe
+C:\Users\Valia\source\repos\LUA Encrypt\LUA Encrypt\obj\Release\LUA Encrypt.pdb
